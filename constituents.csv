@@ -1,5 +1,4 @@
 Symbol,Name,Sector
-MMM,3M,Industrials
 AOS,A. O. Smith,Industrials
 ABT,Abbott Laboratories,Health Care
 ABBV,AbbVie,Health Care
@@ -472,7 +471,6 @@ VRSK,Verisk Analytics,Industrials
 VZ,Verizon Communications,Communication Services
 VRTX,Vertex Pharmaceuticals,Health Care
 VFC,VF Corporation,Consumer Discretionary
-VIAC,ViacomCBS,Communication Services
 VTRS,Viatris,Health Care
 V,Visa,Information Technology
 VNO,Vornado Realty Trust,Real Estate
@@ -494,7 +492,6 @@ WRK,WestRock,Materials
 WY,Weyerhaeuser,Real Estate
 WHR,Whirlpool Corporation,Consumer Discretionary
 WMB,Williams Companies,Energy
-WLTW,Willis Towers Watson,Financials
 WYNN,Wynn Resorts,Consumer Discretionary
 XEL,Xcel Energy,Utilities
 XLNX,Xilinx,Information Technology
